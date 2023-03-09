@@ -18,7 +18,7 @@
     </organization>
     <properties>
         <version.springframwork>4.0.5.RELEASE</version.springframwork>
-        <version.jetty>7.6.3.v20120416</version.jetty>
+        <version.jetty>9.4.41.v20210516</version.jetty>
         <version.derby>10.10.2.0</version.derby>
         <version.hsqldb>2.3.2</version.hsqldb>
         <version.h2>1.3.176</version.h2>
